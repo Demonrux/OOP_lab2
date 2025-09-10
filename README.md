@@ -65,7 +65,7 @@ class Vector {
 };
 ```
 
-###Класс Iterator:
+### Класс Iterator:
 ```cpp
 template <typename Type>
 class Iterator {
