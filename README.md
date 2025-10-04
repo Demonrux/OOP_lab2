@@ -26,6 +26,7 @@
 ## Структура проекта
 <img width="400" height="400" alt="main_8cpp__incl" src="https://github.com/user-attachments/assets/a2fdc713-62e0-41d3-b92e-b5a9d3dd3d03" />
 
+
 ```
 OOP_lab2/
 ├── core/ # Основные классы
