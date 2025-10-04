@@ -24,6 +24,8 @@
 - **Безопасный доступ** с проверкой границ
 
 ## Структура проекта
+<img width="400" height="400" alt="main_8cpp__incl" src="https://github.com/user-attachments/assets/a2fdc713-62e0-41d3-b92e-b5a9d3dd3d03" />
+
 ```
 OOP_lab2/
 ├── core/ # Основные классы
@@ -68,6 +70,8 @@ class Vector {
 ```
 
 ### Класс Iterator:
+<img width="140" height="400" alt="class_iterator__coll__graph" src="https://github.com/user-attachments/assets/ac3212c8-e4f6-4881-abaa-4cd0f0d09ed5" />
+
 ```cpp
 template <typename Type>
 class Iterator {
