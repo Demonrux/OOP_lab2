@@ -38,6 +38,8 @@ OOP_lab2/
 ## Ключевые компоненты
 
 ### Класс Vector:
+<img width="140" height="400" alt="class_vector__coll__graph" src="https://github.com/user-attachments/assets/2a6b4552-0a3e-4837-a965-a17fef9caa19" />
+
 ```cpp
 template <typename Type>
 class Vector {
